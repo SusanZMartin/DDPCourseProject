@@ -22,7 +22,7 @@ As you can see on the next slide (or by going to ['Mothers and Babies'](https://
 ## Familiar User Input Interface
 
 
-![inter](inter.jpg 'Interface')    
+![inter](inter.JPG 'Interface')    
 
 What information would you like to capture - patient age? Whether or not they are a smoker? Their blood pressure reading on the most recent clinic visit? We will work with you to customize this user input interface or link it to existing Electronic Health Record (EHR) applications.
 
@@ -58,7 +58,7 @@ The information that the user enters can be used for a variety of prediction and
 
 For example, a woman who is 5 feet 5 inches tall (65 inches) and weighs 185 pounds has a BMI of `r BMI` and a predicted weight of `r test` for her baby (the values shown in this sentence are calculated using the code that underlies the 'Mothers and Babies' panel and a different example captured from the screen is shown below). Wherever possible we have incorporated informational messages into our panels - as you see in the example below where we tell the user what different values of BMI represent.
 
-![message](message.jpg 'Messages')
+![message](message.JPG 'Messages')
 
 ---
 
@@ -66,4 +66,4 @@ For example, a woman who is 5 feet 5 inches tall (65 inches) and weighs 185 poun
 
 Finally, the OP-aPT allows you to give your users visual access to your organization's data via a simple user input interface. If you'd like to learn more about how EasyDataViz can help you get more out of your data for everyone in your organization get in touch with us at [easydataviz.biz](easydatabiz.viz) or 1-800-EAS-YDTA (1-800-327-9382).  
 
-![plot](plot.png 'Example of plot')
+![plot](plot.PNG 'Example of plot')
